@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Ashutosh Tare</h1>
 <h3 align="center">Computer Vision Engineer (Freelance) | BSc Data Science @ SPPU, Pune</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Freelance+Computer+Vision+Engineer;Defect+Detection+%7C+Security+%7C+Robotics;BSc+Data+Science+%40+SPPU%2C+Pune;Available+for+Freelance+Projects+Now" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Freelance+Computer+Vision+Engineer;Defect+Detection+%7C+Security+%7C+Robotics;BSc+Data+Science+%40+SPPU%2C+Pune;Available+for+Freelance+Projects+Now" alt="Typing SVG" />
 </p>
 
 ---
@@ -54,10 +54,10 @@
 ### 📁 Featured Projects
 
 - **[Defect Detection Pipeline](https://github.com/YOUR_USERNAME/project-1)**
-- **[Deepfake Detector](https://github.com/YOUR_USERNAME/project-2)** — Short description (e.g., CCTV-based intrusion/security detection system)
-- **[Sorting Robot](https://github.com/YOUR_USERNAME/project-3)** — Short description (e.g., Object detection & tracking for a robotics application)
+- **[Deepfake Detector](https://github.com/YOUR_USERNAME/project-2)** 
+- **[Sorting Robot](https://github.com/YOUR_USERNAME/project-3)** 
 
-> 💡 *Tip: Pin these repos on your profile so they show up prominently above this README.*
+
 
 ---
 
@@ -73,9 +73,9 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ashutoshtare07/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="[https://twitter.com/YOUR_TWITTER](https://x.com/ashutoshtare_07)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
   <a href="mailto:your.email@example.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
 
-<p align="center"><i>⭐ Ready to bring computer vision solutions to your next project — let's build it together.</i></p>
+
