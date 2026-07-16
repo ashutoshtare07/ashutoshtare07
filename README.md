@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Data Science Student @ Savitribai Phule Pune University (SPPU) | Aspiring Freelance Data/ML Engineer</h3>
+<h1 align="center">Hi 👋, I'm Ashutosh Tare</h1>
+<h3 align="center">Data Science Student @ Savitribai Phule Pune University (SPPU) | Freelance Data/ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=BSc+Data+Science+Student;Learning+Python+%7C+ML+%7C+SQL;Building+my+Freelance+Engineering+Career;Open+to+Data+%2F+ML+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=BSc+Data+Science+Student;Python+%7C+ML+%7C+COMPUTER VISION;Freelance+Computer+Vision+Engineer;Open+to+Data+%2F+ML+Computer+Vision+Projects" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,10 +11,10 @@
 
 - 🎓 Currently pursuing **BSc in Data Science** at **SPPU, Pune**
 - 🔭 Available for **freelance data & ML projects** — ready to bring value from day one
-- 🌱 Learning **Python, SQL, Machine Learning, and Data Analysis** in depth
+- 🌱 Learning **Deep Learning, Computer Vision ** in depth
 - 💼 Open to **freelance CV engineering projects** in industrial defect detection, security systems, and robotics
 - 🎯 Goal: Become a skilled **Data/ML Engineer** and grow a freelance client base
-- 📫 Reach me at: **[your.email@example.com]**
+- 📫 Reach me at: **[]**
 - 🌐 Portfolio: **[your-portfolio-link.com]**
 
 ---
@@ -76,4 +76,4 @@
   <a href="mailto:your.email@example.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
 
-<p align="center"><i>⭐ From SPPU classrooms to freelance projects — building one dataset at a time.</i></p>
+
