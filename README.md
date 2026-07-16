@@ -9,13 +9,13 @@
 
 ### 🎓 About Me
 
-- 🔭 **Available now** for freelance **Computer Vision engineering** work
-- 🏭 Specializing in **industrial defect detection, security systems, and robotics**
+- 🔭 **Available ** for freelance **Computer Vision engineering** work
+- 🏭 Specializing in **industrial defect detection, security systems, and robotics projects**
 - 🎓 Currently pursuing **BSc in Data Science** at **SPPU, Pune**
 - 🌱 Skilled in **Python, OpenCV, Deep Learning, and Machine Learning**
 - 🎯 Goal: Deliver production-ready CV solutions for freelance clients worldwide
-- 📫 Reach me at: **[your.email@example.com]**
-- 🌐 Portfolio: **[your-portfolio-link.com]**
+- 📫 Reach me at: ****
+
 
 ---
 
@@ -53,9 +53,9 @@
 
 ### 📁 Featured Projects
 
-- **[Project Name 1](https://github.com/YOUR_USERNAME/project-1)** — Short description (e.g., Real-time defect detection on a production line using YOLO)
-- **[Project Name 2](https://github.com/YOUR_USERNAME/project-2)** — Short description (e.g., CCTV-based intrusion/security detection system)
-- **[Project Name 3](https://github.com/YOUR_USERNAME/project-3)** — Short description (e.g., Object detection & tracking for a robotics application)
+- **[Defect Detection Pipeline](https://github.com/YOUR_USERNAME/project-1)**
+- **[Deepfake Detector](https://github.com/YOUR_USERNAME/project-2)** — Short description (e.g., CCTV-based intrusion/security detection system)
+- **[Sorting Robot](https://github.com/YOUR_USERNAME/project-3)** — Short description (e.g., Object detection & tracking for a robotics application)
 
 > 💡 *Tip: Pin these repos on your profile so they show up prominently above this README.*
 
