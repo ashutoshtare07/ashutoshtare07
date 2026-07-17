@@ -1,3 +1,4 @@
+assets/1769274557017.jpg
 <h1 align="center">Hi 👋, I'm Ashutosh Tare</h1>
 <h3 align="center">Computer Vision Engineer (Freelance) | BSc Data Science @ SPPU, Pune</h3>
 
