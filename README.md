@@ -9,7 +9,7 @@
 
 ### 🎓 About Me
 
-- 🔭 **Available ** for freelance **Computer Vision engineering** work
+- 🔭 **Available** for freelance **Computer Vision engineering** work
 - 🏭 Specializing in **industrial defect detection, security systems, and robotics projects**
 - 🎓 Currently pursuing **BSc in Data Science** at **SPPU, Pune**
 - 🌱 Skilled in **Python, OpenCV, Deep Learning, and Machine Learning**
