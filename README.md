@@ -14,7 +14,7 @@
 - 🎓 Currently pursuing **BSc in Data Science** at **SPPU, Pune**
 - 🌱 Skilled in **Python, OpenCV, Deep Learning, and Machine Learning**
 - 🎯 Goal: Deliver production-ready CV solutions for freelance clients worldwide
-- 📫 Reach me at: ****
+- 📫 Reach me at: **ashutareofficial@gmail.com**
 
 
 ---
