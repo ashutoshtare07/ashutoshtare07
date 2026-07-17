@@ -2,7 +2,7 @@
 <h3 align="center">Computer Vision Engineer (Freelance) | BSc Data Science @ SPPU, Pune</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Freelance+Computer+Vision+Engineer;Defect+Detection+%7C+Security+%7C+Robotics;BSc+Data+Science+%40+SPPU%2C+Pune;Available+for+Freelance+Projects+Now" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Freelance+Computer+Vision+Engineer;Defect+Detection+%7C+Security+%7C+Robotics;BSc+Data+Science+%40+SPPU%2C+Pune" alt="Typing SVG" />
 </p>
 
 ---
