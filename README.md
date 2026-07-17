@@ -41,9 +41,9 @@
 
 ### 📁 Featured Projects
 
-- **[Defect Detection Pipeline](https://github.com/YOUR_USERNAME/project-1)**
-- **[Deepfake Detector](https://github.com/YOUR_USERNAME/project-2)** 
-- **[Sorting Robot](https://github.com/YOUR_USERNAME/project-3)** 
+- **[Defect Detection Pipeline]([https://github.com/YOUR_USERNAME/project-1](https://github.com/ashutoshtare07/Defect-Detection-Pipeline))**
+- **[Deepfake Detector]([https://github.com/YOUR_USERNAME/project-2](https://github.com/ashutoshtare07/Deepfake-Detector))** 
+- **[Sorting Robot]([https://github.com/YOUR_USERNAME/project-3](https://github.com/ashutoshtare07/Sorting-Robot))** 
 
 
 
