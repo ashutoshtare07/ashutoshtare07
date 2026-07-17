@@ -49,7 +49,7 @@
 
 ---
 
-### 🚀 Freelance Services I Offer
+### 🚀 Freelance Services 
 
 - 🏭 Industrial defect detection systems (computer vision)
 - 🔐 Security & surveillance vision systems
