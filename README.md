@@ -62,10 +62,7 @@
 
 ### 🤝 Connect With Me
 
-<p align="left">
-  <a href="[https://www.linkedin.com/in/ashutoshtare07/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="[https://x.com/ashutoshtare_07]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="mailto:your.email@example.com"><img align="center" src="assets/Gmail Logo PNG.jpg" alt="email" height="30" width="40" /></a>
-</p>
-
+[<img src="assets/download (2).jpg" height="50px">](www.linkedin.com/in/ashutoshtare07)
+[<img src="assets/Twitter X App Icon PNG.jpg" height="50px">](https://x.com/ashutoshtare_07)
+[<img src="assets/Gmail Logo PNG.jpg" height="50px">](mailto:ashutareofficial@gmail.com)
 
