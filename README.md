@@ -62,7 +62,7 @@
 
 ### 🤝 Connect With Me
 
-[<img src="assets/download (2).jpg" height="50px">](www.linkedin.com/in/ashutoshtare07)
+[<img src="assets/download (2).jpg" height="50px">](https://www.linkedin.com/in/ashutoshtare07/)
 [<img src="assets/Twitter X App Icon PNG.jpg" height="50px">](https://x.com/ashutoshtare_07)
 [<img src="assets/Gmail Logo PNG.jpg" height="50px">](mailto:ashutareofficial@gmail.com)
 
