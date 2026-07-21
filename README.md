@@ -63,9 +63,9 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ashutoshtare07/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="[https://twitter.com/YOUR_TWITTER](https://x.com/ashutoshtare_07)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="mailto:your.email@example.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+  <a href="[https://www.linkedin.com/in/ashutoshtare07/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="[https://x.com/ashutoshtare_07]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="mailto:your.email@example.com"><img align="center" src="assets/Gmail Logo PNG.jpg" alt="email" height="30" width="40" /></a>
 </p>
 
 
