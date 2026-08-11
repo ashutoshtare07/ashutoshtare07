@@ -1,21 +1,20 @@
 <img src="assets/1769274557017.jpg" width="1200" alt="App Screenshot">
 
 <h1 align="center">Hi 👋, I'm Ashutosh Tare</h1>
-<h3 align="center">Computer Vision Engineer (Freelance) | BSc Data Science @ SPPU, Pune</h3>
+<h3 align="center">Machine Learning Engineer (Freelance) | Computer Vision Engineer (Freelance) | BSc Data Science @ SPPU, Pune</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Freelance+Computer+Vision+Engineer;Defect+Detection+%7C+Security+%7C+Robotics;BSc+Data+Science+%40+SPPU%2C+Pune" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Freelance+Computer+Vision+Engineer;Freelance+Machine+Learning+Engineer;BSc+Data+Science+%40+SPPU%2C+Pune" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🎓 About Me
 
-- 🔭 **Available** for freelance **Computer Vision engineering** work
-- 🏭 Specializing in **industrial defect detection, security systems, and robotics projects**
+- 🔭 **Available** for freelance **Computer Vision Engineering/Machine Learning Engineer** work
 - 🎓 Currently pursuing **BSc in Data Science** at **SPPU, Pune**
 - 🌱 Skilled in **Python, OpenCV, Deep Learning, and Machine Learning**
-- 🎯 Goal: Deliver production-ready CV solutions for freelance clients worldwide
+- 🎯 Goal: Deliver production-ready CV/ML solutions for freelance clients worldwide
 - 📫 Reach me at: **ashutosh.freelance7@gmail.com**
 
 
@@ -55,7 +54,7 @@
 
 - 🏭 Industrial defect detection systems (computer vision)
 - 🔐 Security & surveillance vision systems
-- 🤖 Robotics perception & vision integration
+- 🤖 Machine Learning Projects 
 - 📈 Data cleaning, EDA & model evaluation support
 
 ---
