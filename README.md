@@ -1,4 +1,4 @@
-<img src="assets/1769274557017.jpg" width="1200" alt="App Screenshot">
+
 
 <h1 align="center">Hi 👋, I'm Ashutosh Tare</h1>
 <h3 align="center">Machine Learning Engineer (Freelance) | Computer Vision Engineer (Freelance) | BSc Data Science @ SPPU, Pune</h3>
