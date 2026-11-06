@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Ashutosh Tare</h1>
 <h3 align="center">Data Analyst | BSc Data Science @ SPPU, Pune</h3>
 
@@ -16,7 +15,6 @@
 - 🌱 Skilled in **Python, PowerBI, Tableau,SQL and Machine Learning**
 - 🎯 Goal: Deliver production-ready Data Analysis solutions for freelance clients worldwide
 - 📫 Reach me at: **ashutosh.freelance7@gmail.com**
-
 
 ---
 
@@ -37,7 +35,6 @@
 </p>
 
 ---
-
 
 ### 📁 Featured Projects
 
