@@ -1,10 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Ashutosh Tare</h1>
-<h3 align="center">Machine Learning Engineer (Freelance) | Computer Vision Engineer (Freelance) | BSc Data Science @ SPPU, Pune</h3>
+<h3 align="center">Data Analyst | BSc Data Science @ SPPU, Pune</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Freelance+Computer+Vision+Engineer;Freelance+Machine+Learning+Engineer;BSc+Data+Science+%40+SPPU%2C+Pune" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analysis;SQL;Tableau;Power+BI;Machine+Learning;Data Engineering;BSc+Data+Science+%40+SPPU%2C+Pune" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,8 +13,8 @@
 
 - 🔭 **Available** for freelance **Computer Vision Engineering/Machine Learning Engineer** work
 - 🎓 Currently pursuing **BSc in Data Science** at **SPPU, Pune**
-- 🌱 Skilled in **Python, OpenCV, Deep Learning, and Machine Learning**
-- 🎯 Goal: Deliver production-ready CV/ML solutions for freelance clients worldwide
+- 🌱 Skilled in **Python, PowerBI, Tableau,SQL and Machine Learning**
+- 🎯 Goal: Deliver production-ready Data Analysis solutions for freelance clients worldwide
 - 📫 Reach me at: **ashutosh.freelance7@gmail.com**
 
 
@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
@@ -50,12 +49,7 @@
 
 ---
 
-### 🚀 Freelance Services 
 
-- 🏭 Industrial defect detection systems (computer vision)
-- 🔐 Security & surveillance vision systems
-- 🤖 Machine Learning Projects 
-- 📈 Data cleaning, EDA & model evaluation support
 
 ---
 
