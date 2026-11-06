@@ -4,7 +4,7 @@
 <h3 align="center">Data Analyst | BSc Data Science @ SPPU, Pune</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analysis;SQL;Tableau;Power+BI;Machine+Learning;Data Engineering;BSc+Data+Science+%40+SPPU%2C+Pune" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analysis;SQL;Tableau;Power+BI;Machine+Learning;Data+Engineering;BSc+Data+Science+%40+SPPU%2C+Pune" alt="Typing SVG" />
 </p>
 
 ---
@@ -41,15 +41,9 @@
 
 ### 📁 Featured Projects
 
-- **[Defect Detection Pipeline]([https://github.com/YOUR_USERNAME/project-1](https://github.com/ashutoshtare07/Defect-Detection-Pipeline))**
-- **[Deepfake Detector]([https://github.com/YOUR_USERNAME/project-2](https://github.com/ashutoshtare07/Deepfake-Detector))** 
-- **[Sorting Robot]([https://github.com/YOUR_USERNAME/project-3](https://github.com/ashutoshtare07/Sorting-Robot))** 
-
-
-
----
-
-
+- **[Defect Detection Pipeline](https://github.com/ashutoshtare07/Defect-Detection-Pipeline)**
+- **[Deepfake Detector](https://github.com/ashutoshtare07/Deepfake-Detector)**
+- **[Sorting Robot](https://github.com/ashutoshtare07/Sorting-Robot)**
 
 ---
 
@@ -58,4 +52,3 @@
 [<img src="assets/download (2).jpg" height="50px">](https://www.linkedin.com/in/ashutoshtare07/)
 [<img src="assets/Twitter X App Icon PNG.jpg" height="50px">](https://x.com/ashutoshtare_07)
 [<img src="assets/Gmail Logo PNG.jpg" height="50px">](mailto:ashutareofficial@gmail.com)
-
